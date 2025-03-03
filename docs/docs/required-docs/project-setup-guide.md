@@ -1,4 +1,10 @@
-# Setup Instructions
+---
+id: project-setup-guide
+title: Project Setup Guide
+---
+
+# Project Setup Guide
+
 ## Web App (Next.js)
 To run the web app:
 1. Open a terminal in the `web-app` directory.
